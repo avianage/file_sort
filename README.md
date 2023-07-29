@@ -17,7 +17,7 @@ The File Organizer is a Python script that helps you organize your files based o
 **File Structure:**
 ```
 File_Organizer/
-│-- file_organizer.py
+│-- main.py
 │-- README.md
 ```
 
